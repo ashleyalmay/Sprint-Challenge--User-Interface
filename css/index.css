@@ -236,7 +236,7 @@ header  {
   }
   header nav{
       display:flex;
-      justify-content: space-evenly;
+      justify-content: space-between;
       align-items: baseline;
   }
   
