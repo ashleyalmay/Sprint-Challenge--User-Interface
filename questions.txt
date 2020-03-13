@@ -1,0 +1,21 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+-Semantic HTML is the use of HTML markup to reinforce the semantics, or meaning, of the information in webpages and web applications rather than merely to define its presentation or look. Semantic HTML is processed by traditional web browsers as well as by many other user agents. CSS is used to suggest its presentation to human users. So its what gives the information to the web. Examples would be things like the <p tag>.
+
+Name two big differences between display: block; and display: inline;.
+
+-display: block means that the element is displayed as a block, as paragraphs and headers have always been. A block has some whitespace above and below it and tolerates no HTML elements next to it, except when ordered otherwise (by adding a float declaration to another element, for instance).
+-display: inline means that the element is displayed inline, inside the current block on the same line. Only when it's between two blocks does the element form an 'anonymous block', that however has the smallest possible width.
+-The 2 difference would be display: inline doesn't have white space around it. Display block will have the next item next to each other. 
+
+What are the 4 areas of the box model?
+in order of the box going to the top
+-content, padding, border and margin
+
+While using flexbox, what axis does the following property work on: align-items: center?
+-align-items: center; The flexbox items are aligned at the center of the cross axis. By default, the cross axis is vertical. This means the flexbox items will be centered vertically.
+-the cross axis
+
+Explain why git is valuable to a team of developers.
+-Git is really valuable because it allows you to work on a project and make changes to it, without waiting for someone else. Then merge all together later on when your done.
+
